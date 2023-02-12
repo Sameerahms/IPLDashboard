@@ -1,0 +1,19 @@
+.matchSmallCard {
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.match-result {
+  margin-top: 10px;
+}
+
+.otherTeam {
+  text-shadow: 5px 5px 10px rgba(9, 37, 37, 0.4);
+  color: #092525;
+}
+
+.otherTeam:hover {
+  text-shadow: 5px 5px 10px rgba(15, 38, 225, 0.4);
+  color: #0f26e1;
+}
