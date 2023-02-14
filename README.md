@@ -1,5 +1,6 @@
 # IPL Dashboard
 Browse your favorite IPL teams and access their past games details.
+Live Site: https://stalwart-medovik-9655a8.netlify.app/
 
 # Screenshots
 ![Screenshot Capture - 2023-02-14 - 14-41-15](https://user-images.githubusercontent.com/31875604/218691596-291c2e4a-75ac-46a8-8ce4-d7f90cb931d9.png)
